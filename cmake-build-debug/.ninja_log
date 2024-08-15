@@ -1,2 +1,4 @@
 # ninja log v5
 6	43	1723713929270560134	build.ninja	37d957482e91fb45
+1	255	1723719907437528037	CMakeFiles/Redis_2nd_try.dir/client.cpp.o	befa8358782a20d2
+1	260	1723719907443885530	CMakeFiles/Redis_2nd_try.dir/server.cpp.o	c281e7995b3e4962
